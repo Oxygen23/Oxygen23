@@ -1,7 +1,6 @@
 my name is omari- 👋 Hi, I’m @Oxygen23
-- 👀 I’m interested in ...python,php,java,javascripts and php
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...django
+- 👀 I’m full stack developer
+-  
 - 📫 How to reach me ...omarirobert98@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
