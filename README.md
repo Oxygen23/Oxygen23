@@ -1,5 +1,5 @@
 my name is omari- 👋 Hi, I’m @Oxygen23
-- 👀 I’m full stack developer
+- 👀 I’m software engeneering
 -  
 - 📫 How to reach me ...omarirobert98@gmail.com
 - 😄 Pronouns: ...
